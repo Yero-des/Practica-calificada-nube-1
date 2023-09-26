@@ -1,4 +1,5 @@
 <?php include_once "encabezado.php"; ?>
+
 <div class="row">
   <div class="col-12">
     <h1>Agregar</h1>
@@ -16,4 +17,5 @@
     </form>
 </div>
 </div>
+
 <?php include_once "pie.php"; ?>
